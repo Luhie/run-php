@@ -10,3 +10,5 @@
 - isDir();
 - fread($file->getSize());
 - fwrite();
+- array_push();
+- append();
