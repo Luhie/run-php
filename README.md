@@ -21,3 +21,4 @@
 ## Constructor
 - function __construct(){}
 - private
+- set/get method
