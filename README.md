@@ -12,3 +12,7 @@
 - fwrite();
 - array_push();
 - append();
+
+## Class and Instance 
+- class name{}
+- new ClassName()
