@@ -22,3 +22,5 @@
 - function __construct(){}
 - private
 - set/get method
+
+## Inheritance
