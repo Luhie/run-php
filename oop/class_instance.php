@@ -1,20 +1,21 @@
 <?php
 class MyFileObejct{
+  public $file_name;
   function isFile(){
-    return is_file($this->filename);
+    return is_file($this->file_name);
   }
 }
 
 
 $file =  new MyFileObejct();
-$file->filename = 'data.txt';
+$file->file_name = 'data.txt';
 var_dump($file->isFile());
-var_dump($file->filename);
+var_dump($file->file_name);
 
 $file2 =  new MyFileObejct();
-$file2->filename = 'data2.txt';
+$file2->file_name = 'data2.txt';
 var_dump($file2->isFile());
-var_dump($file2->filename);
+var_dump($file2->file_name);
 
 
 

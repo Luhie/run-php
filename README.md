@@ -16,3 +16,4 @@
 ## Class and Instance 
 - class name{}
 - new ClassName()
+- public & $this->
