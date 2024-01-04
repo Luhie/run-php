@@ -20,3 +20,4 @@
 
 ## Constructor
 - function __construct(){}
+- private
