@@ -10,15 +10,7 @@ class Animal{
   }
 }
 
-class Human{
-  function run(){
-    print('running...');
-
-  
-  }
-  function breathe(){
-    print('breathing..');
-  }
+class Human extends Animal{
   function think(){
     print('thinking...');
   }
@@ -34,6 +26,7 @@ $ani->breathe();
 
 $human = new Human();
 $human->talk();
+$human->run();
 
 
 ?>
