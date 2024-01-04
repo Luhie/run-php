@@ -24,3 +24,4 @@
 - set/get method
 
 ## Inheritance
+## static
