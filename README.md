@@ -1,6 +1,7 @@
 # run-php
 
 ## Function & Object
+
 - is_file();
 - is_dir();
 - file_get_contents();
@@ -14,19 +15,25 @@
 - append();
 
 ## Class and Instance 
+
 - class name{}
 - new ClassName()
 - public & $this->
 
 ## Constructor
+
 - function __construct(){}
 - private
 - set/get method
 
 ## Inheritance
+
 ## static
+
 - self::
 
 ## Class Loading and namespace
+
 - require_once
 - spl_autoload_register()
+- str_replace()
