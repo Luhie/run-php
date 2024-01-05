@@ -29,3 +29,4 @@
 
 ## Class Loading and namespace
 - require_once
+- spl_autoload_register()
