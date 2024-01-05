@@ -25,4 +25,7 @@
 
 ## Inheritance
 ## static
-- 
+- self::
+
+## Class Loading and namespace
+- require_once
