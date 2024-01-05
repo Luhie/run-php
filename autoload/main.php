@@ -8,7 +8,6 @@ function autoloader($path){
   require_once $path;
 }
 spl_autoload_register('autoloader');
-echo 'main : ';
 
 new Hi();
 new Bye();
