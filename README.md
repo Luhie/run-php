@@ -50,3 +50,5 @@
 - parent::
 
 ## Protected & final
+
+## interface
