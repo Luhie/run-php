@@ -37,3 +37,9 @@
 - require_once
 - spl_autoload_register()
 - str_replace()
+
+## Composer
+
+- composer init
+- composer require monolog/monolog
+- composer install

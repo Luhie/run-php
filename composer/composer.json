@@ -1,0 +1,17 @@
+{
+    "name": "luhie/composer-app",
+    "description": "First composer",
+    "autoload": {
+        "psr-4": {
+            "Greeting\\": "src/Greeting/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luhie"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.5"
+    }
+}
