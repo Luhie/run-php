@@ -48,3 +48,5 @@
 
 - extends
 - parent::
+
+## Protected & final
